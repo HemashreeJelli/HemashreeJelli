@@ -36,72 +36,6 @@ I thrive on solving messy, complex problems with clean, intelligent solutions. W
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="40"/> &nbsp; *Building things that make a difference*
-</div>
-
-<br/>
-
-### 🗂️ Resume Analysis & Tracking Platform
-> *AI-powered hiring intelligence, reimagined*
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-![ML](https://img.shields.io/badge/ML-FF9900?style=flat-square&logo=scikitlearn&logoColor=white)
-
-An end-to-end **AI platform** that automates the resume screening pipeline using semantic embeddings, intelligent parsing, and ML-powered scoring.
-
-| Feature | Description |
-|--------|-------------|
-| 🤖 AI Resume Parsing | Extracts structured data from unstructured resumes |
-| 🔍 Semantic Job Matching | Matches candidates to roles using vector similarity |
-| 📊 ML Candidate Scoring | Ranks applicants with ML-based relevance scores |
-| 🔄 Application Tracking | Automates end-to-end ATS workflow |
-
----
-
-### 🗺️ Crime Analytics & FIR Management System
-> *Data-driven insights for smarter public safety*
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
-![ML](https://img.shields.io/badge/ML-FF9900?style=flat-square&logo=scikitlearn&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-A **crime analytics dashboard** built to help law enforcement detect patterns, predict incidents, and manage FIR data intelligently.
-
-| Feature | Description |
-|--------|-------------|
-| 🗺️ Hotspot Visualization | Maps crime clusters across regions geographically |
-| 🔮 ML Crime Prediction | Forecasts high-risk areas using historical FIR data |
-| ⚠️ Anomaly Detection | Flags unusual crime surges in real time |
-| 📋 FIR Dashboard | Provides an interactive analytics layer on case data |
-
----
-
-### 💝 AI-Powered Donation Platform
-> *Matching generosity with impact using NLP*
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
-![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-
-An **NLP-powered giving platform** that understands donor intent and recommends the most aligned charitable causes in real time.
-
-| Feature | Description |
-|--------|-------------|
-| 💬 Sentiment Analysis | Reads emotion and motivation from donor messages |
-| 🎯 Intent Detection | Identifies cause preferences via keyword intelligence |
-| 🏷️ Charity Recommender | Surfaces matching charities using NLP similarity |
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -134,7 +68,45 @@ An **NLP-powered giving platform** that understands donor intent and recommends 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+---
 
+## 🚀 Featured Projects
+
+<div align="center">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="40"/> &nbsp; *Building things that make a difference*
+</div>
+
+<br/>
+
+### 🗂️ Resume Analysis & Tracking Platform
+> *AI-powered hiring intelligence, reimagined*
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
+![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+![ML](https://img.shields.io/badge/ML-FF9900?style=flat-square&logo=scikitlearn&logoColor=white)
+
+---
+
+### 🗺️ Crime Analytics & FIR Management System
+> *Data-driven insights for smarter public safety*
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+![ML](https://img.shields.io/badge/ML-FF9900?style=flat-square&logo=scikitlearn&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+---
+
+### 💝 AI-Powered Donation Platform
+> *Matching generosity with impact using NLP*
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
+![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 ---
 
 ## 📊 GitHub Stats
