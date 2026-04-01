@@ -19,8 +19,6 @@ Hey there! I'm **Hemashree Jelli** — a curious builder who loves sitting at th
 
 <br clear="right"/>
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
