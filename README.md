@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Hemashree%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Explorer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Hemashree%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
 
 </div>
 
@@ -10,8 +10,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="260" alt="coding gif"/>
 
 Hey there! I'm **Hemashree Jelli** — a curious builder who loves sitting at the intersection of **AI, data, and real-world impact**.
-
-I thrive on solving messy, complex problems with clean, intelligent solutions. Whether it's training an NLP model, designing a full-stack platform, or uncovering crime patterns hidden in datasets — I'm all in.
 
 - 🧠 Passionate about **AI, ML, NLP & Data Analytics**
 - 🔬 Love **research-driven projects** that push boundaries
