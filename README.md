@@ -7,6 +7,8 @@
 
 ## 🌟 About Me
 
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="260" alt="coding gif"/>
+
 Hey there! I'm **Hemashree Jelli** — a curious builder who loves sitting at the intersection of **AI, data, and real-world impact**.
 
 I thrive on solving messy, complex problems with clean, intelligent solutions. Whether it's training an NLP model, designing a full-stack platform, or uncovering crime patterns hidden in datasets — I'm all in.
