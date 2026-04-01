@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Hemashree%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
 </div>
+
 ## 🌟 About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="260" alt="coding gif"/>
