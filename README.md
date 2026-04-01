@@ -3,24 +3,17 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Hemashree%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Explorer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+AI+that+actually+matters+%F0%9F%A7%A0;NLP+%E2%9C%A8+ML+%E2%9C%A8+Full+Stack+%E2%9C%A8+Research;Turning+data+into+decisions%2C+one+model+at+a+time)](https://git.io/typing-svg)
-
 <br/>
 
 <!-- Badges Row -->
-![Profile Views](https://komarev.com/ghpvc/?username=hemashreejelli&color=blueviolet&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemashreejelli)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hemashreejelli@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hemashreejelli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemashree-jelli/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HemashreeJelli)
 
 </div>
 
 ---
 
 ## 🌟 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
 
 Hey there! I'm **Hemashree Jelli** — a curious builder who loves sitting at the intersection of **AI, data, and real-world impact**.
 
@@ -70,126 +63,3 @@ I thrive on solving messy, complex problems with clean, intelligent solutions. W
 </div>
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="40"/> &nbsp; *Building things that make a difference*
-</div>
-
-<br/>
-
-### 🗂️ Resume Analysis & Tracking Platform
-> *AI-powered hiring intelligence, reimagined*
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-![ML](https://img.shields.io/badge/ML-FF9900?style=flat-square&logo=scikitlearn&logoColor=white)
-
----
-
-### 🗺️ Crime Analytics & FIR Management System
-> *Data-driven insights for smarter public safety*
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
-![ML](https://img.shields.io/badge/ML-FF9900?style=flat-square&logo=scikitlearn&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-
----
-
-### 💝 AI-Powered Donation Platform
-> *Matching generosity with impact using NLP*
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
-![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat-square&logo=openai&logoColor=white)
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; *Stats don't lie — but they don't tell the whole story either* &nbsp; <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemashreejelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemashreejelli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemashreejelli&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemashreejelli/hemashreejelli/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemashreejelli/hemashreejelli/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/hemashreejelli/hemashreejelli/output/github-contribution-grid-snake.svg" />
-</picture>
-
-> 🔧 *To enable the snake animation, add the [GitHub Actions workflow](https://github.com/Platane/snk#readme) to your repository.*
-
-</div>
-
----
-
-## ✨ Fun Facts & Interests
-
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" alt="thinking gif"/>
-
-```python
-hemashree = {
-    "pronouns"    : "she/her",
-    "currently"   : "Building AI-powered real-world systems",
-    "learning"    : ["LLMs", "RAG Pipelines", "Vector DBs"],
-    "loves"       : ["NLP research", "clean APIs", "good coffee ☕"],
-    "fun_fact"    : "I once classified crime patterns before breakfast 🔍",
-    "philosophy"  : "Data is a story. I just help tell it.",
-    "superpower"  : "Turning messy datasets into meaningful insights",
-}
-```
-
-🎯 **What drives me:**
-- Solving problems that haven't been solved yet
-- Research at the edge of what AI can do today
-- Making technology accessible and impactful
-
-🌍 **Beyond code:** I enjoy exploring new ideas across domains — from cognitive science to public policy — anything AI can intersect with and improve.
-
-<br clear="right"/>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/> &nbsp; *Always open to collaborations, research conversations, and new ideas!*
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemashree%20Jelli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemashreejelli)
-[![Gmail](https://img.shields.io/badge/Gmail-hemashreejelli%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemashreejelli@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-hemashreejelli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemashreejelli)
-
-<br/>
-
-> *"The best way to predict the future is to build it." — Alan Kay*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
